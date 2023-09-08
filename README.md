@@ -1,4 +1,4 @@
-# Design_Patterns_Chess_JAVA
+# Design Patterns Chess in JAVA
 
 A chess game implemented with my friend and colleague H. BONTEMPS in JAVA and using Design Patterns (SOLID principles, TCP, Observer, Component and Strategy patterns).
 
